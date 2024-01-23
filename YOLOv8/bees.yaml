@@ -1,0 +1,7 @@
+path: ./YOLOv8/data/beekeeping
+train: Training
+val: Validation
+
+names:
+  0: non-disease
+  1: disease
